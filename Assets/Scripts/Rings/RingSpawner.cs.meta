@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e4858b5a9b274c868d667145ac646d9
+timeCreated: 1484664211
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - argola: {instanceID: 0}
+  - wall: {fileID: 1000014073612484, guid: 80eb648ea690fad49b787cfbb57c9c94, type: 2}
+  - interfc: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
